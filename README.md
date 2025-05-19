@@ -1,0 +1,2 @@
+"Java String Reversal Using Stack" is a simple Java program that demonstrates how to reverse each word in a given string using a custom stack implementation. The program uses a character stack (StackX) to reverse the characters of each word while preserving the word order and spaces. This project showcases basic stack operations such as push, pop, and stack boundary checks (isFull, isEmpty), making it a great learning exercise for understanding data structures in Java.
+
